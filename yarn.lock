@@ -280,13 +280,6 @@ cross-spawn@^7.0.2:
   dependencies:
     d3-color "1 - 3"
 
-"d3-scale-chromatic-S@https://github.com/Shiianova-S/d3-scale-chromatic":
-  version "3.0.0"
-  resolved "https://github.com/Shiianova-S/d3-scale-chromatic#7a54cdef5cc6bdf03072eb877b9b0bb39d42e726"
-  dependencies:
-    d3-color "1 - 3"
-    d3-interpolate "1 - 3"
-
 debug@4.3.1, debug@^4.0.1, debug@^4.1.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz#f0d229c505e0c6d8c49ac553d1b13dc183f6b2ee"
