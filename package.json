@@ -36,8 +36,7 @@
   "sideEffects": false,
   "dependencies": {
     "d3-color": "1 - 3",
-    "d3-interpolate": "1 - 3",
-    "d3-scale-chromatic-S": "https://github.com/Shiianova-S/d3-scale-chromatic"
+    "d3-interpolate": "1 - 3"
   },
   "devDependencies": {
     "eslint": "7",
